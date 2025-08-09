@@ -1,2 +1,1 @@
-# ShippingManagement
-Professional ShippingManagement framework with ShippingManagement-optimized intelligent-automation and enterprise scalable-architecture capabilities
+.
